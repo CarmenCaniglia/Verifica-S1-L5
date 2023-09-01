@@ -1,0 +1,165 @@
+/* HEADER */
+
+.logo {
+    background-color: black;
+}
+.logo img {
+    padding: 2em;
+    width: 150px;
+}
+
+
+.banner {
+    text-align: center;
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    padding: 10em;
+}
+.banner h1{
+    font-size: 2rem;
+    color: #25a2c3;
+    font-family: montserrat, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.banner p {
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: Open-Sans, sans-serif;
+    line-height: 1.65;
+    padding: 1em;
+}
+.button {
+    background-color: #f04c2f;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+
+/* MAIN */
+.main {
+    padding: 6em;
+}
+.main h2 {
+    color: #25a2c3;
+    font-family: montserrat, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.main p {
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: open-sans, sans-serif;
+    line-height: 1.65;
+    padding: 1em;
+    padding-top: 0.5em;
+}
+.img {
+    float: left;
+}
+#first-pc {
+    border-radius: 50%;
+    padding: 6em;
+    
+}
+
+.red-box {
+    color: white;
+    background-color: #e22d0e;
+    padding: 4em;
+    text-align: center;
+}
+.red-box h2 {
+    font-weight: bold;
+    padding: 0.5em;
+    font-size: 2em;
+    font-family: montserrat, sans-serif;
+    ;
+}
+.life {
+    font-style: italic;
+    padding: 1em;
+    font-family: open-sans, sans-serif;
+    line-height: 1.5em;
+}
+.mario {
+    font-size: 1.3em;
+    font-family: open-sans, sans-serif;
+}
+.ceo {
+    font-size: 0.7em;
+    padding: 0.5em;
+    font-family: open-sans, sans-serif;
+}
+/* ASIDE */
+
+aside {height: 400px;
+margin: 1.9em;}
+
+.extra {
+    
+    
+    border: 1px solid rgb(192, 190, 190);
+   
+    border-radius: 4px;
+    width: 400px;
+    margin: 1em;
+    text-align: center;
+    float: left;
+}
+.extra img {
+    width: 100%;
+}
+#office{
+    padding-top: 1em;
+}
+.extra h2{
+    color: #25a2c3;
+    font-family: montserrat, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-top: 1em;
+}
+.extra p {
+    color: #393d41;
+    font-size: 1rem;
+    font-family: open-sans, sans-serif;
+    line-height: 1.65;
+    padding: 1em;
+    padding-top: 0.5em;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #25a2c3;
+    margin-top: 3em;
+    text-align: center;
+
+}
+.footer h2 {
+    color: white;
+    font-family: montserrat, sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-top: 1em;
+    font-size: 2em;
+}
+.footer ul, a, i, p {
+    color: #c8e7f0;
+    font-family: open-sans, sans-serif;
+}
+.footer ul {
+    line-height: 1.5em;
+    padding: 1em;
+    list-style-type: none;
+}
+.footer hr {
+    width: 140px;
+    margin-bottom: 2em;
+}
+.footer p {
+    padding-bottom: 4em;
+}
